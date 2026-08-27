@@ -1,0 +1,10 @@
+{
+  "name": "Bolso Certo",
+  "short_name": "Bolso Certo",
+  "description": "Controle de gastos mensais simples e privado",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#14b8a6",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
